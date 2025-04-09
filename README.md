@@ -14,3 +14,5 @@ This website uses:
 - Vanilla JavaScript (no frameworks)
 - Bootstrap 5 for the responsive grid and components
 - Font Awesome for icons
+
+Note: I did use AI assist at times to brainstorm and cleanup the syntax.
